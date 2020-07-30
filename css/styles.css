@@ -1,0 +1,22 @@
+.navbar .navbar-brand {
+	color: black;
+	font-weight: bold;
+}
+.nav-link {
+	text-align: center;
+	padding: 1 rem;
+	border-bottom: 2px solid black;
+}
+#para {
+	background-color: #cfcfcf;
+	padding: 10%;
+}
+h2 {
+	margin: 20px;
+}
+.navbar-light .navbar-toggler {
+	border: 2px solid black;
+}
+.navbar-light .navbar-toggler:focus .navbar-toggler:active{
+	border: 2px solid white; !imporant;
+}
